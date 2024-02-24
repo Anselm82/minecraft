@@ -1,8 +1,0 @@
-
-[kotlin:S6619h"7Remove this useless non-null check, it always succeeds.(íÕÀ’üÿÿÿÿ8–¤¡ßİ1
-^kotlin:S6619">Remove this useless non-null assertion !!, it always succeeds.(‡–½ì8–¤¡ßİ1
-rkotlin:S3776˜"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ôò¦œ8Ë¤¡ßİ1
-ykotlin:S1186""ZAdd a nested comment explaining why this function is empty or complete the implementation.(÷àƒî8Ø¤¡ßİ1
-Qkotlin:S6518ş",Replace function call with indexed accessor.(§ŠÇÅÿÿÿÿÿ8Ü¤¡ßİ1
-Qkotlin:S6518’",Replace function call with indexed accessor.(ÚÙ¼úÿÿÿÿ8Ü¤¡ßİ1
-Lkotlin:S6518”",Replace function call with indexed accessor.(Œ€Ùú8İ¤¡ßİ1
