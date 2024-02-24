@@ -1,0 +1,26 @@
+name: CDLF_UHC
+version: '${project.version}'
+main: moe.cdlf.cdlfuhc.CDLF_UHC
+api-version: '1.20'
+commands:
+  start_game:
+    description: Start the game
+    usage: /<command>
+  assign_teams:
+    description: Assign teams
+    usage: /<command>
+  create_scoreboard_objective:
+    description: Create the scoreboard objective
+    usage: /<command>
+  reset_scoreboard_objective:
+    description: Reset the scoreboard objective
+    usage: /<command>
+  initialize_lobby:
+    description: Initiate the lobby
+    usage: /<command>
+  change_world_border:
+    description: Change the world border
+    usage: /<command>
+  reassign_teams:
+    description: Reasign teams
+    usage: /<command>
